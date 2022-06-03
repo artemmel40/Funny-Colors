@@ -1,0 +1,5 @@
+C:\Users\артём\OneDrive\Рабочий стол\Zoo\bin\Debug\net5.0-windows\publish\Zoo.exe
+C:\Users\артём\OneDrive\Рабочий стол\Zoo\bin\Debug\net5.0-windows\publish\Zoo.dll
+C:\Users\артём\OneDrive\Рабочий стол\Zoo\bin\Debug\net5.0-windows\publish\Zoo.deps.json
+C:\Users\артём\OneDrive\Рабочий стол\Zoo\bin\Debug\net5.0-windows\publish\Zoo.runtimeconfig.json
+C:\Users\артём\OneDrive\Рабочий стол\Zoo\bin\Debug\net5.0-windows\publish\Zoo.pdb
